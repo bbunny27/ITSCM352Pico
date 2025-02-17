@@ -13,7 +13,7 @@ Let's see what is wrong with this file. I will use a hex editor to search the he
 The hexeditor I used is called [Hexedit](https://man.archlinux.org/man/hexedit.1.en). I completed this challenge using an Arch based machine, which is why I have linked to the application in the AUR, however, similar applications are available on Debian based distros as well as Red Hat distros.
 <br>
 <br>
-I can open the file by typing "hexedit flag2of2-final.pdf"
+I can open the file by typing "hexedit flag2of2-final.pdf".  
 I knew from previous CTF's that challenge files often have the wrong header. I was proven right when I saw this: ![hexedit](hexedit.png).  
 As you can see, the file has "PNG" and "GIMP" in the header. The former being the file format, and the latter being the program used to create said image.
 ### Step 4) 
