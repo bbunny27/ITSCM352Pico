@@ -5,6 +5,8 @@
 We are given the following challenge.  
 ![file](challenge.png)  
   
+We are given a file as well: [file](ukn_reality.jpg)
+  
 The challenge clearly hints at some sort of data hidden within the challenge.   
 I know there there a few likely ways that this is done. One is by inserting a file into another file, hiding something in the metadata, or hiding something in the hexcode. 
 
