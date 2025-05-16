@@ -6,3 +6,5 @@ This repo is for UW-W ITSCM 352 class. It contains write-ups for PicoCTF challen
 [Secret of the Polyglot](https://github.com/bbunny27/ITSCM352Pico/blob/main/SecretOfThePolyglot/SecretOfThePolyglot.md) <br>
 [Bookmarklet](https://github.com/bbunny27/ITSCM352Pico/blob/main/Bookmarklet/bookmarklet.md) <br>
 [CanYouSee](https://github.com/bbunny27/ITSCM352Pico/blob/main/CanYouSee/CanYouSee.md) <br>
+[RED](https://github.com/bbunny27/ITSCM352Pico/blob/main/RED/red.md) <br>
+[hideme](https://github.com/bbunny27/ITSCM352Pico/blob/main/HideMe/hideme.md) <br>
